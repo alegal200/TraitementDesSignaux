@@ -1,0 +1,32 @@
+
+
+Cimage  : capsule 
+        Cimage NR  : images en noire et blanc   
+        Cimage RGB : images en couleur 
+
+Cimage.Exception : Eceptions
+
+Cimage.Observeur :  beans 
+                    listeners
+                    
+Icones : liste images pour le projet 
+
+ImagesProcessing.Complexe
+    Complexe     : encapsulation d un nombre imaginaire
+    Matrice complexe  : matrice de nombre complexe 
+
+
+
+ImagesProcessing.Fourier   : methodes statics qui en relation avec fourier 
+                                        Fourier 2D
+                                        InverseFourier 2D
+                                        Decroise 
+
+Histogramme  : methode static 
+                Histograme
+        
+ IsilImageProcessing
+
+
+IsilImageProcessing.Dialogue 
+    -> boite de dialogue 
